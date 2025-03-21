@@ -1,3 +1,7 @@
-# Website-Personal
-Hello World Website
-<h1>HELLO WORLD CN</h1>
+<DOCTYPE! html>
+<html>
+  <head>
+    <title>test buat</title>
+    <h1>hello world</h1>
+  </head>
+</html>
